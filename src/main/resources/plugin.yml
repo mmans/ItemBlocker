@@ -1,0 +1,7 @@
+name: ItemBlocker
+main: de.telemans.minecraft.itemblocker.ItemBlockerPlugin
+version: ${version}
+commands:
+  ibshow:
+    description: Show list of blocked items
+    usage: "Usage: '/ibshow' to show list of blocked items"

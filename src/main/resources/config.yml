@@ -1,0 +1,11 @@
+settings:
+  disable_plugin_for_ops: true
+  default_blocktext: Sorry, these items are disabled on this server :(
+
+items:
+  # THESE 2 LINE ARE JUST EXAMPLES. ADD YOUR OWN TO MAKE THE PLUGIN USEFILL ;)
+  DIRT:
+    block_text: Dummyblocks are not allowed on this server
+  88:
+    max_amount: 5
+    block_text: Only 5 items of this type are allowed
